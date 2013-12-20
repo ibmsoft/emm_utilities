@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="com.wso2mobile.ios.mdm">
+        <wb-resource deploy-path="/" source-path="/src"/>
+        <dependent-module archiveName="jscep-2.0.2.jar" deploy-path="/" handle="module:/classpath/lib/com.wso2mobile.ios.mdm/lib/jscep-2.0.2.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="bcpkix-jdk15on-149.jar" deploy-path="/" handle="module:/classpath/lib/com.wso2mobile.ios.mdm/lib/bcpkix-jdk15on-149.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="bcprov-ext-jdk15on-149.jar" deploy-path="/" handle="module:/classpath/lib/com.wso2mobile.ios.mdm/lib/bcprov-ext-jdk15on-149.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="bcmail-jdk15on-149.jar" deploy-path="/" handle="module:/classpath/lib/com.wso2mobile.ios.mdm/lib/bcmail-jdk15on-149.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="bcprov-jdk15on-149.jar" deploy-path="/" handle="module:/classpath/lib/com.wso2mobile.ios.mdm/lib/bcprov-jdk15on-149.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="commons-lang-2.6.jar" deploy-path="/" handle="module:/classpath/lib/com.wso2mobile.ios.mdm/lib/commons-lang-2.6.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="commons-io-2.4.jar" deploy-path="/" handle="module:/classpath/lib/com.wso2mobile.ios.mdm/lib/commons-io-2.4.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="gson-2.2.4.jar" deploy-path="/" handle="module:/classpath/lib/com.wso2mobile.ios.mdm/lib/gson-2.2.4.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="slf4j-api-1.7.5.jar" deploy-path="/" handle="module:/classpath/lib/com.wso2mobile.ios.mdm/lib/slf4j-api-1.7.5.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+    </wb-module>
+</project-modules>
